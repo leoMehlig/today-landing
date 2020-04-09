@@ -44,7 +44,7 @@ features:
     fontawesome_icon_name: bell
   - title: AI-based icon recommendation for that extra touch
     description: Spark up your plan with some nice matching icons. The best one will automatically be recommended.
-    fontawesome_icon_name: icons
+    fontawesome_icon_name: magic
   - title: Set start time and duration to get an exact overview
     description: By setting when a task will task and how long it will task, you will always know what to do next.
     fontawesome_icon_name: stopwatch
