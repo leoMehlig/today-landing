@@ -19,7 +19,7 @@ enable_smart_app_banner: true # Set to true to show a smart app banner at top of
 
 # Information About Yourself
 your_name: Leo Mehlig
-your_link: leomehlig.com
+your_link: https://www.leomehlig.com
 your_city: Berlin
 email_address: leo@leomehlig.com
 facebook_username:
