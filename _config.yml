@@ -41,16 +41,16 @@ features:
     fontawesome_icon_name: check-circle
   - title: Reminders to keep you on track
     description: Enable reminders to never miss a task and always stay on track.
-    fontawesome_icon_name: alarm-clock
+    fontawesome_icon_name: bell
   - title: AI-based icon recommendation for that extra touch
     description: Spark up your plan with some nice matching icons. The best one will automatically be recommended.
     fontawesome_icon_name: icons
   - title: Set start time and duration to get an exact overview
     description: By setting when a task will task and how long it will task, you will always know what to do next.
-    fontawesome_icon_name: watch
+    fontawesome_icon_name: stopwatch
   - title: Automatic conflict resolution
     description: The app will automatically detect conflicts in your shedul and resolve them.
-    fontawesome_icon_name: exclamation-square
+    fontawesome_icon_name: exclamation-circle
 
 # Theme Settings
 topbar_color: "#F4A099"
