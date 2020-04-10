@@ -30,14 +30,14 @@ youtube_username:
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
-  - title: Bring strucuture into your day
+  - title: Bring structure into your day
     description: Stop wasting time by splitting up your day into small tasks.
     fontawesome_icon_name: clock
   - title: A timeline of all todos and events
-    description: A simple timeline of you day gives you the oversight to achieve your plans.
+    description: A simple timeline of your day gives you the oversight to achieve your plans.
     fontawesome_icon_name: calendar-alt
   - title: Combines calendar and todo lists
-    description: Plan you day and check of tasks and events once they where done.
+    description: Plan your day and check off tasks and events, once they are done.
     fontawesome_icon_name: check-circle
   - title: Reminders to keep you on track
     description: Enable reminders to never miss a task and always stay on track.
@@ -49,7 +49,7 @@ features:
     description: By setting when a task will task and how long it will task, you will always know what to do next.
     fontawesome_icon_name: stopwatch
   - title: Automatic conflict resolution
-    description: The app will automatically detect conflicts in your shedul and resolve them.
+    description: The app will automatically detect conflicts in your schedule and resolve them.
     fontawesome_icon_name: exclamation-circle
 
 # Theme Settings
