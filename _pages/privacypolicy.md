@@ -1,9 +1,3 @@
----
-layout: page
-title: Privacy Policy
-include_in_header: false
----
-
 <div id="iubenda_policy" class="iubenda_fluid_policy iubenda_embed_policy ">
     <div id="wbars_all">
         <div class="iub_container iub_base_container">
@@ -87,7 +81,7 @@ include_in_header: false
                                     <li>
                                         <div class="iconed icon_owner">
                                             <h3>Owner and Data Controller</h3>
-                                            <p>Leonard Mehlig - Mainzer Stra\u00dfe 22, 12053 Berlin, Germany</p>
+                                            <p>Leonard Mehlig - Mainzer Straße 22, 12053 Berlin, Germany</p>
                                             <p><strong>Owner contact email:</strong> structured@leomehlig.com</p>
                                         </div>
                                     </li>
@@ -100,7 +94,7 @@ include_in_header: false
                     </div> <!-- /one_line_col -->
                     <div class="one_line_col">
                         <h2 id="owner_of_the_data"> Owner and Data Controller </h2>
-                        <p>Leonard Mehlig - Mainzer Stra\u00dfe 22, 12053 Berlin, Germany</p>
+                        <p>Leonard Mehlig - Mainzer Straße 22, 12053 Berlin, Germany</p>
                         <p><b>Owner contact email:</b> structured@leomehlig.com</p>
                     </div>
                     <div class="one_line_col">
@@ -117,7 +111,7 @@ include_in_header: false
                             Application specifically states that some Data is not mandatory, Users are free not to
                             communicate this Data without consequences to the availability or the functioning of the
                             Service.<br />Users who are uncertain about which Personal Data is mandatory are welcome to
-                            contact the Owner.<br />Any use of Cookies \u2013 or of other tracking tools \u2013 by this
+                            contact the Owner.<br />Any use of Cookies – or of other tracking tools – by this
                             Application or by the owners of third-party services used by this Application serves the
                             purpose of providing the Service required by the User, in addition to any other purposes
                             described in the present document and in the Cookie Policy, if available.</p>
@@ -143,8 +137,8 @@ include_in_header: false
                         <ul>
                             <li>Users have given their consent for one or more specific purposes. Note: Under some
                                 legislations the Owner may be allowed to process Personal Data until the User objects to
-                                such processing (\u201copt-out\u201d), without having to rely on consent or any other of
-                                the following legal bases. This, however, does not apply, whenever the processing of
+                                such processing (“opt-out”), without having to rely on consent or any other of the
+                                following legal bases. This, however, does not apply, whenever the processing of
                                 Personal Data is subject to European data protection law;</li>
                             <li>provision of Data is necessary for the performance of an agreement with the User and/or
                                 for any pre-contractual obligations thereof;</li>
@@ -178,10 +172,10 @@ include_in_header: false
                             <li>Personal Data collected for purposes related to the performance of a contract between
                                 the Owner and the User shall be retained until such contract has been fully performed.
                             </li>
-                            <li>Personal Data collected for the purposes of the Owner\u2019s legitimate interests shall
-                                be retained as long as needed to fulfill such purposes. Users may find specific
-                                information regarding the legitimate interests pursued by the Owner within the relevant
-                                sections of this document or by contacting the Owner.</li>
+                            <li>Personal Data collected for the purposes of the Owner’s legitimate interests shall be
+                                retained as long as needed to fulfill such purposes. Users may find specific information
+                                regarding the legitimate interests pursued by the Owner within the relevant sections of
+                                this document or by contacting the Owner.</li>
                         </ul>
                         <p>The Owner may be allowed to retain Personal Data for a longer period whenever the User has
                             given consent to such processing, as long as such consent is not withdrawn. Furthermore, the
@@ -199,7 +193,7 @@ include_in_header: false
                             activity, as well as the following: Platform services and hosting, Device permissions for
                             Personal Data access, Beta Testing, Hosting and backend infrastructure and Analytics. </p>
                         <p>For specific information about the Personal Data used for each purpose, the User may refer to
-                            the section \u201cDetailed information on the processing of Personal Data\u201d.</p>
+                            the section “Detailed information on the processing of Personal Data”.</p>
                     </div>
                     <div class="one_line_col">
                         <h2 id="mobile_permissions">Device permissions for Personal Data access</h2>
@@ -306,9 +300,9 @@ include_in_header: false
                                         <p>These services have the purpose of hosting and running key components of this
                                             Application, therefore allowing the provision of this Application from
                                             within a unified platform. Such platforms provide a wide range of tools to
-                                            the Owner \u2013 e.g. analytics, user registration, commenting, database
-                                            management, e-commerce, payment processing \u2013 that imply the collection
-                                            and handling of Personal Data. <br /> Some of these services work through
+                                            the Owner – e.g. analytics, user registration, commenting, database
+                                            management, e-commerce, payment processing – that imply the collection and
+                                            handling of Personal Data. <br /> Some of these services work through
                                             geographically distributed servers, making it difficult to determine the
                                             actual location where the Personal Data are stored.</p>
                                         <h4>Apple App Store (Apple Inc.)</h4>
@@ -398,18 +392,18 @@ include_in_header: false
                         <p>More details concerning the collection or processing of Personal Data may be requested from
                             the Owner at any time. Please see the contact information at the beginning of this document.
                         </p>
-                        <h3>How \u201cDo Not Track\u201d requests are handled</h3>
-                        <p>This Application does not support \u201cDo Not Track\u201d requests.<br />To determine
-                            whether any of the third-party services it uses honor the \u201cDo Not Track\u201d requests,
-                            please read their privacy policies.</p>
+                        <h3>How “Do Not Track” requests are handled</h3>
+                        <p>This Application does not support “Do Not Track” requests.<br />To determine whether any of
+                            the third-party services it uses honor the “Do Not Track” requests, please read their
+                            privacy policies.</p>
                         <h3>Changes to this privacy policy</h3>
                         <p>The Owner reserves the right to make changes to this privacy policy at any time by notifying
                             its Users on this page and possibly within this Application and/or - as far as technically
                             and legally feasible - sending a notice to Users via any contact information available to
                             the Owner. It is strongly recommended to check this page often, referring to the date of the
                             last modification listed at the bottom. <br /><br /> Should the changes affect processing
-                            activities performed on the basis of the User\u2019s consent, the Owner shall collect new
-                            consent from the User, where required.</p>
+                            activities performed on the basis of the User’s consent, the Owner shall collect new consent
+                            from the User, where required.</p>
                     </div>
                     <div class="one_line_col">
                         <div class="box_primary box_10 definitions expand">
@@ -417,9 +411,9 @@ include_in_header: false
                                 Definitions and legal references </h3>
                             <div class="expand-content">
                                 <h4>Personal Data (or Data)</h4>
-                                <p>Any information that directly, indirectly, or in connection with other information
-                                    \u2014 including a personal identification number \u2014 allows for the
-                                    identification or identifiability of a natural person.</p>
+                                <p>Any information that directly, indirectly, or in connection with other information —
+                                    including a personal identification number — allows for the identification or
+                                    identifiability of a natural person.</p>
                                 <h4>Usage Data</h4>
                                 <p>Information collected automatically through this Application (or third-party services
                                     employed in this Application), which can include: the IP addresses or domain names
