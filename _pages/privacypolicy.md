@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: false
+---
+
 <div id="iubenda_policy" class="iubenda_fluid_policy iubenda_embed_policy ">
     <div id="wbars_all">
         <div class="iub_container iub_base_container">
